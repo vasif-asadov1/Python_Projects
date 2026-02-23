@@ -38,7 +38,6 @@ Includes:
 - NumPy  
 - Scikit-learn  
 - XGBoost / LightGBM / CatBoost  
-- Matplotlib / Seaborn  
 
 ---
 
@@ -46,11 +45,8 @@ Includes:
 
 ✔ End-to-end analytical workflow  
 ✔ Modular code architecture  
-✔ Business KPI design  
 ✔ Machine learning model evaluation  
 ✔ Feature engineering  
-✔ Statistical testing (ANOVA, Chi-square)  
-✔ Insight-driven decision support  
 
 ---
 
@@ -65,4 +61,5 @@ These projects reflect my ability to transform raw datasets into strategic insig
 👤 Author: Vasif Asadov  
 🎓 Data Science Academy  
 📅 2025
+
 
